@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main>
-      <h1 className="text-4xl">Helloooo</h1>
+      <h1>Week 2 Demos</h1>
     </main>
   );
 }
